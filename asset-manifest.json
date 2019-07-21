@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gagharutyunyan/films/static/css/main.2cce8147.chunk.css",
+    "main.css": "/gagharutyunyan/films/static/css/main.ba49ec77.chunk.css",
     "main.js": "/gagharutyunyan/films/static/js/main.d173c0a8.chunk.js",
     "main.js.map": "/gagharutyunyan/films/static/js/main.d173c0a8.chunk.js.map",
     "runtime~main.js": "/gagharutyunyan/films/static/js/runtime~main.672f0102.js",
@@ -8,8 +8,8 @@
     "static/js/2.3310f33a.chunk.js": "/gagharutyunyan/films/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/gagharutyunyan/films/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/gagharutyunyan/films/index.html",
-    "precache-manifest.223edb1d23a068dacdb60cfa87f00b13.js": "/gagharutyunyan/films/precache-manifest.223edb1d23a068dacdb60cfa87f00b13.js",
+    "precache-manifest.dc4c7713f0635baaa9cd97af5904cdba.js": "/gagharutyunyan/films/precache-manifest.dc4c7713f0635baaa9cd97af5904cdba.js",
     "service-worker.js": "/gagharutyunyan/films/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/gagharutyunyan/films/static/css/main.2cce8147.chunk.css.map"
+    "static/css/main.ba49ec77.chunk.css.map": "/gagharutyunyan/films/static/css/main.ba49ec77.chunk.css.map"
   }
 }
