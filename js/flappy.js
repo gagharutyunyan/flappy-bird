@@ -1,3 +1,9 @@
+/*!
+   Flappy bird game
+   Copyright (c) 2019 Gagik Harutyunyan
+   gagharut@gmail.com
+*/
+
 const game = document.querySelector('.game');
 const scoreMove = document.querySelector('.score-move');
 const playBlock = document.querySelector('.start');
