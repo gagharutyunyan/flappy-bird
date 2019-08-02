@@ -1,6 +1,6 @@
 /*!
    Flappy bird game
-   Copyright (c) 2019 Gagik Harutyunyan
+   © 2019 Gagik Harutyunyan
    gagharut@gmail.com
 */
 
