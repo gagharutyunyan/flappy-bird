@@ -116,7 +116,7 @@ body {
 	background-color: #8185945c;
 	transition-property: all;
 	transition-duration: 0.8s;
-	animation: rotating 2s linear infinite;
+	animation: rotating 4s linear infinite;
 }
 
 .github-fixed-icon:hover {
